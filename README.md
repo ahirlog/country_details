@@ -1,5 +1,11 @@
 # Country Details App
 
+
+
+https://github.com/user-attachments/assets/ca31ac3d-dc43-48b1-826f-28e7c748cdb8
+
+
+
 A modern Flutter application that displays information about countries around the world, organized by regions. This app provides a beautiful and intuitive UI for exploring country details, with map integration and social sharing features.
 
 ## Features
